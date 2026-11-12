@@ -1,0 +1,19 @@
+name: push-to-autosprite
+on:
+  push:
+    paths: ['jobs/*.json']
+jobs:
+  up:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: PUT each image to its presigned URL
+        run: |
+          for f in jobs/*.json; do
+            python3 - "$f" <<'PY'
+          import json,sys,subprocess
+          for it in json.load(open(sys.argv[1])):
+              r=subprocess.run(['curl','-s','-o','/dev/null','-w','%{http_code}','-X','PUT','-H','Content-Type: image/png','--data-binary','@'+it['file'],it['url']],capture_output=True,text=True)
+              print(it['file'],r.stdout)
+          PY
+          done
