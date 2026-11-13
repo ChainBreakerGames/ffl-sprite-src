@@ -1,0 +1,262 @@
+[
+{
+"file": "b25_attack.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkulzw00hdtlow0l6clwyk/sheet?sig=1794700800.84b3e88be16cb9e234aec95233e0bc01bfa1d1d4b4020d9f69b9c8f6e4e7ecb4"
+},
+{
+"file": "b25_lance.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkukvk00h9tlowlflo86xw/sheet?sig=1794700800.5068a5e50be6d02a057b385d260bba47d3894086723331f99413e66a027520f4"
+},
+{
+"file": "b25_guard.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkufpf00b5yda2dtunykl6/sheet?sig=1794700800.25c71ebb2e911098098b0861dd211a77a7ba60c100c61efbe4e3d55dc73876e0"
+},
+{
+"file": "b25_idle.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkuf1w00b1yda294a8yi5g/sheet?sig=1794700800.99f3cd70fadb3b8106db53274e59e55eaefc7c0cd2c6e9b68e517e6a98989160"
+},
+{
+"file": "b25_slam.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfku5fp00jnrxow3wiod52m/sheet?sig=1794700800.7ac427abdde3ed305a9f6d8f0bfc31dd8dc0e41ccbfd3a4b60623430e3a566fc"
+},
+{
+"file": "b25_cyclone.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfku05h00jgrxow9hz9vabk/sheet?sig=1794700800.a7186c668ae4164e8e8c81cd7035a07fca677e79cbe285d16f6d1938f877b60c"
+},
+{
+"file": "b25_special.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfktxzp00jcrxowth6ztu04/sheet?sig=1794700800.84f17e0c59fa60a94991285c4b77ad2d84f3e319ebf32d91a5ab578eb7e81985"
+},
+{
+"file": "b25_walk.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfktwdo00j8rxowbu7dhbwc/sheet?sig=1794700800.be60dba28314a40c4ffe6c0a758fc6d76ea3d9504ad5ec8aefdbbab41b1090bd"
+},
+{
+"file": "b25_hurt.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfktw0l00j4rxowns3j8i6y/sheet?sig=1794700800.41aa019f5624e203df5e9ab99b3254b35b22f06c1b466428199abc3c1949042f"
+},
+{
+"file": "b25_defeat.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfktsh700j0rxow4oygogxe/sheet?sig=1794700800.6ffe4664193aa80eae0cfd7ef6f865cbfbceacce1ad59fe25e3be802ef55c608"
+},
+{
+"file": "b47_special.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkvjaa00hjtlowqsgfsozr/sheet?sig=1794700800.de847104ea4272f9f061ef3c9e988937dc0df8a5fd2e19cd7824d0298e1655ae"
+},
+{
+"file": "b47_walk.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkvgws00bmyda227h8afcn/sheet?sig=1794700800.0c7159f8367dda3407a74816d1795c96c4cec0fa80284fd6984d2e8030934cdc"
+},
+{
+"file": "b47_attack.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkveyw00bhyda2hivryzfs/sheet?sig=1794700800.de3c636b746a94768aefc230e347947307ab57e699e8d8d2a587dff9b2491b1b"
+},
+{
+"file": "b47_hurt.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkvdq800bdyda2973f2q7u/sheet?sig=1794700800.69632f92f873df36d4efb0317162f9ac0ed69fdc12c378b2f44cd6d0a52394d0"
+},
+{
+"file": "b47_idle.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkv9mw00b9yda2om44ppgz/sheet?sig=1794700800.c691166fb5004721d09e87001cb2260cffa531b9134930dcfe2693eab0cd39e1"
+},
+{
+"file": "b47_slam.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkujxd00jsrxowu3yr53e8/sheet?sig=1794700800.2cd7ef28bace5463c8a2014a64070dbebc3af8466be0b039a2c81c7de826b15c"
+},
+{
+"file": "b47_defeat.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkub0200aiyda2enpiyo9i/sheet?sig=1794700800.55eab9d5706f867f58dfb7b155bb9194f91bf6273c85042a217f0e2ff41c794b"
+},
+{
+"file": "b33_hurt.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkw80k005hr2bwcoj6nxqa/sheet?sig=1794700800.f56a796233f960b6124aef9cddc5d960ebd4fa2cf915ea4508bf39d909c65253"
+},
+{
+"file": "b33_slam.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkw63d005dr2bwck6lau4o/sheet?sig=1794700800.f207c50573c7265f617f25796bac3187a27e6cc180da89d9242c6e1c26e2a7fe"
+},
+{
+"file": "b33_idle.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkw53m0059r2bwj4aaxh5k/sheet?sig=1794700800.d8a2ae0e5b9fee30c2145ef735446ef3cd7df86708b4c7dbce567eeb96f7c146"
+},
+{
+"file": "b33_attack.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkvxl7004yr2bw3peoa0sk/sheet?sig=1794700800.c2f49983b1f069183a8a719b521949797b2a7b5e6b6a596ea5b6825f0479485f"
+},
+{
+"file": "b33_special.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkvrv900hstlowajqp9q7o/sheet?sig=1794700800.debf4e8e5b843c0e057f7dc5f05426ecdfaab07b8fe1a106b88abb5e7bd0eb7e"
+},
+{
+"file": "b33_defeat.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkvpxt00bzyda2655whuuj/sheet?sig=1794700800.5f5fc9f875f2847db219ec7c4970741c2addee1a0b5475d4cd73b59af1a09bfe"
+},
+{
+"file": "b42_walk.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkx73m00j0tlowkrq8gvku/sheet?sig=1794700800.8c576c7af72eda7c7c31228758de312d731e9662902480653ebe3d8e459a138f"
+},
+{
+"file": "b42_attack.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkx4v800cjyda2cykrdc12/sheet?sig=1794700800.d628ed4e797bbfbd596b25201d528560e4fb22fcdbd031a55f03cf20f518086c"
+},
+{
+"file": "b42_slam.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkx2pm00cfyda2u809n6vu/sheet?sig=1794700800.50879783c3dbe0522532d684b62945394ce5310190d17d1b478e5bde1576b023"
+},
+{
+"file": "b42_idle.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkwzu800kxrxow70ebnzu7/sheet?sig=1794700800.b64f004877b62a61b1e35f5ad25d3314854228df17383de770d4322bb9767c50"
+},
+{
+"file": "b42_defeat.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkwycc00ktrxowh2wk4uh8/sheet?sig=1794700800.29f163ff29f054d3fb526cef0a7a8f029fd7cb49a884a7276b2a388f0b19bec8"
+},
+{
+"file": "b42_hurt.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkwrwk00klrxowzk7yksk7/sheet?sig=1794700800.4da2fcb76bbb8297ff8d3de23fe3b02fe89b7512d01217b8c6cebd1ae44bfe8d"
+},
+{
+"file": "b42_special.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkw8n8005lr2bw01n81zlk/sheet?sig=1794700800.aa44b93b9f5212f41fc016c2ee33a2ca342e7bff485b1021b0e2b94b42d1d76b"
+},
+{
+"file": "b32_hurt.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkys0d00e1yda2szw7h6bu/sheet?sig=1794700800.2666da803d678642900f5a76244e33cc6a5b0fb8febb7d2a09c8590f4cb7291e"
+},
+{
+"file": "b32_defeat.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkyjfo007br2bwmlw3rbym/sheet?sig=1794700800.4ceb43913ed8f3e5beafae35a16cee3259adfa589dcb89342a73d432e39e21f9"
+},
+{
+"file": "b32_walk.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkyfd300m7rxowah4942s1/sheet?sig=1794700800.d99c849cbd1a3a0f6b8b6d4b93e00eb1acd925973aab9c4bc21f3973fb6dd21d"
+},
+{
+"file": "b32_special.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkxqpj00dgyda2enlbf955/sheet?sig=1794700800.a67c7f94f77491b637e722f213ccf8d7446aef8a0d9e7f4d64e9e945c41936fc"
+},
+{
+"file": "b32_slam.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkxolo00dcyda2dez472ti/sheet?sig=1794700800.fc7b1e2847ae7fc269a2c44b3ebde1160231bea6216bd7cb534a786b388359be"
+},
+{
+"file": "b32_attack.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkxnpa00j6tlow99hobgz2/sheet?sig=1794700800.817ea7b70612e8d285aac6f841f55bae0ec87e8c20c32b13c9093a7e88959067"
+},
+{
+"file": "b32_idle.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkx9dn00cwyda2n4o1xace/sheet?sig=1794700800.df62e66248362889ce62eac89d280a319ca26fe8886354d0c1f5d8eceec7a083"
+},
+{
+"file": "b11_slam.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl0pf500exyda21ngpsy58/sheet?sig=1794700800.625433c709ea3aaaaeffccd170d70edf6b4fd8972e7aa9fd9735cdd862389877"
+},
+{
+"file": "b11_special.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl09ym00mzrxowzinbeb9i/sheet?sig=1794700800.68ae8786bbf4bb42ae04f3e2e860e33f511effe63f74504d754fd5fe1cc30a79"
+},
+{
+"file": "b11_hurt.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkzz8d008rr2bwhiazjqk5/sheet?sig=1794700800.ab4525de69d2f07c18d1b23fa571c562309c3f05c679f15974cfc0622f2f39cc"
+},
+{
+"file": "b11_walk.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkzcwu008cr2bwwxav6mih/sheet?sig=1794700800.c3d072eb1ea7b335ae33d700a4178181e66c8472f9aa6c4f8323771f9d4bb671"
+},
+{
+"file": "b11_attack.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkyoa200mnrxowwvtvholf/sheet?sig=1794700800.a053465637b5c39e832ea8aa3f1717cb2af362fada708bee70305034ffb2e95f"
+},
+{
+"file": "b11_idle.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkylx100dpyda2budzo6zq/sheet?sig=1794700800.b79673ab0947fbc354a2650beaf6da31820a92111b2804a3edd1164cc2513a95"
+},
+{
+"file": "b11_defeat.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfkyjj400mfrxowk1r51u7i/sheet?sig=1794700800.d821b1cb4923a25335b4676326ae258f3e1a60596eab05045fe382102068f431"
+},
+{
+"file": "b12_walk.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl1zgs00njrxowekm3iux7/sheet?sig=1794700800.f36ec6b3f342d9f15b70a6bd9cf63f16fe30b8c826eeac12554b8ca54be1594f"
+},
+{
+"file": "b12_attack.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl1nkm00derode6dozycf7/sheet?sig=1794700800.39caa7d5ad5255d506698a3111437827202d5c2e8af136e88529a88c6fc7e07e"
+},
+{
+"file": "b12_special.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl1bz700a3r2bwh1nl5row/sheet?sig=1794700800.6a8427bbb5eed01c020eee6c96ca98307fda8b59db583543c99c6132003b5d48"
+},
+{
+"file": "b12_defeat.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl19n000n3rxows4tdmlsg/sheet?sig=1794700800.24b9da37818f446e1cbe724f3e172cd17a59955d6d2823ffd267fdf3b2f42327"
+},
+{
+"file": "b12_slam.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl181300g4yda2sr56qxaj/sheet?sig=1794700800.a4f7ee7bb6c6fe3a6f515f004d33a7234c8e86da394a38727d446e034f3d896d"
+},
+{
+"file": "b12_hurt.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl0xag009wr2bwt2jzym6f/sheet?sig=1794700800.ac450ff6685e311775eab5c729264f33297627cb29f6068bef266a52896150b8"
+},
+{
+"file": "b12_idle.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl0wmx009or2bwnzzjmgnk/sheet?sig=1794700800.bd5dd9be1af1e24463f19a751e7a36a6a3fbba972710ed17b0fc775631946f95"
+},
+{
+"file": "b46_defeat.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl2l14000aah1n4rkizach/sheet?sig=1794700800.3ee74ddebd351925852bc5e9d4c5315e052faee476ef45ed5f5aad54cde45651"
+},
+{
+"file": "b46_idle.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl2fk200jutlowa4ntbaqf/sheet?sig=1794700800.bd6e35ccdcbb9e77d0e43f9e2404649691c6ce567af98da94446fc78ff7f1759"
+},
+{
+"file": "b46_special.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl2du800dirodek9v92a2e/sheet?sig=1794700800.2abf862f1edc0ee860d55829d12c56460a4a4c8850a62b24a3a758386296b52f"
+},
+{
+"file": "b46_hurt.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl25zi00anr2bwsz53omaw/sheet?sig=1794700800.b26d08ac8e900c5dd03a50674eec044b06596cb0dac7f9ec563b839862e8dbe8"
+},
+{
+"file": "b46_attack.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl241900ajr2bwxsri2noy/sheet?sig=1794700800.be882e43659c5e3e71a50adac1a4461714870f4b1f2e31df3dbe0debe40319c2"
+},
+{
+"file": "b46_walk.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl20jj00nrrxow38hbvey3/sheet?sig=1794700800.e7385fc1749d4141cacc2c4b4b34895c0e7191643f4523bcd41d7342c0ec1e0d"
+},
+{
+"file": "b46_slam.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl1jf500cyrode0admcyhw/sheet?sig=1794700800.45feab02aa68ae4895cdd9f127c38a32a4f54f56ab25f65f517f7ad2b59b80c8"
+},
+{
+"file": "b31_attack.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl4kew000u78bz0e8ws7ec/sheet?sig=1794700800.b9adf800c267da51cb993f92201845894a83c76139391a5d35ad920b8a690f37"
+},
+{
+"file": "b31_idle.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl3nb00006wwmzz37girwm/sheet?sig=1794700800.8dfa3979044aab8fcd998a622977b7a41638b6e405ed60a6714b8333795df5a6"
+},
+{
+"file": "b31_hurt.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl3jjo000611g10sauc89m/sheet?sig=1794700800.7e1971a84606bfb1885d6d04377dff234232bb2daf4ac1f5812f00729e722f2b"
+},
+{
+"file": "b31_slam.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl31mx000611y43ubwlywu/sheet?sig=1794700800.86f92ecdb80ac4d0fc2bc4b135b39e0cbed40290d27d77f1376eaf60abe64755"
+},
+{
+"file": "b31_walk.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl31e00006y2xwzi5m3d6b/sheet?sig=1794700800.08f74836e1aebfadb90ae60dac3cdc0216c200cc1f8c5df55152b44323f73149"
+},
+{
+"file": "b31_special.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl2nmk0006da71zkc9wp0w/sheet?sig=1794700800.213c56121a396eb2645d6c46567404371be4e058f8a196b58a797a5349dce0f0"
+},
+{
+"file": "b31_defeat.png",
+"url": "https://www.autosprite.io/api/files/spritesheets/cmwfl2lkr0006pgmuasukerhe/sheet?sig=1794700800.837b8bc1ee01cfbce3f59864dde70100b9ef725c83d3c5b2124d6b936e9d5e03"
+}
+]
