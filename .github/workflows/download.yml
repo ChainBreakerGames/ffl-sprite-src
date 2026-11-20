@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Pillow
+        run: pip install -q pillow
       - name: Download each URL
         run: |
           mkdir -p sheets
@@ -18,7 +20,13 @@ jobs:
           for it in json.load(open(sys.argv[1])):
               out='sheets/'+it['file']
               if os.path.exists(out): continue
-              r=subprocess.run(['curl','-sL','-o',out,'-w','%{http_code}',it['url']],capture_output=True,text=True)
+              tmp=out+'.part' if out.endswith('.webp') else out
+              r=subprocess.run(['curl','-sL','-o',tmp,'-w','%{http_code}',it['url']],capture_output=True,text=True)
+              if tmp!=out:
+                  try:
+                      from PIL import Image
+                      Image.open(tmp).save(out,'WEBP',quality=92,alpha_quality=100,method=4); os.remove(tmp)
+                  except Exception as e: print('convert fail',e); os.rename(tmp,out)
               print(it['file'],r.stdout)
           PY
           done
