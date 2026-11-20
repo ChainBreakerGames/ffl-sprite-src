@@ -26,7 +26,10 @@ jobs:
                   try:
                       from PIL import Image
                       Image.open(tmp).save(out,'WEBP',quality=92,alpha_quality=100,method=4); os.remove(tmp)
-                  except Exception as e: print('convert fail',e); os.rename(tmp,out)
+                  except Exception as e:
+                      print('convert fail',e)
+                      try: os.rename(tmp,out)
+                      except Exception: pass
               print(it['file'],r.stdout)
           PY
           done
